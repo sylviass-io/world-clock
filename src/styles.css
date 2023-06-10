@@ -1,19 +1,18 @@
 body {
-  background-color: black;
-  color: beige;
+  background-color: white;
+  color: black;
   font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: beige;
+  background-color: white;
   color: black;
   padding: 60px;
-  box-shadow: 10px 10px 20px rgba(247, 246, 246, 0.2);
-  border-radius: 9px;
-  outline: solid 3px #888;
-  border: solid 6px white;
+  box-shadow: inset 3px 3px 7px #ffffffb0,
+    inset -3px -3px 7px rgba(94, 104, 121, 0.692);
+  border-radius: 10px;
 }
 
 .city {
@@ -57,9 +56,9 @@ h2 {
 footer {
   text-align: center;
   font-size: 18px;
-  color: beige;
+  color: black;
 }
 a {
-  color: beige;
+  color: black;
   text-decoration: none;
 }
