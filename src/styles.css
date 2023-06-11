@@ -1,7 +1,7 @@
 body {
   background-color: white;
   color: black;
-  font-family: sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .container {
@@ -42,6 +42,7 @@ select {
   border-radius: 5px;
   box-shadow: inset -3px -3px 7px #ffffffb0,
     inset 3px 3px 7px rgba(94, 104, 121, 0.692);
+  font-family: "Montserrat", sans-serif;
 }
 
 h1 {
